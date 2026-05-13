@@ -11,7 +11,7 @@ PRATYAKSHA_KEYWORDS = [
     "I witnessed", "I heard", "I counted", "I weighed",
     "reading was", "the meter showed", "my observation",
     "personally observed", "first-hand", "directly witnessed",
-    "I found", "I noticed", "I detected", "lab results show",
+    "I found", "I noticed", "I detected", "the temperature", "cooling fan", "reading:", "lab results show",
     "experiment confirmed", "data confirms"
 ]
 
