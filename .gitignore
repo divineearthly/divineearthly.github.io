@@ -1,0 +1,44 @@
+# Binaries
+*.exe
+*.out
+*.o
+*.so
+*.dylib
+*.bin
+*.elf
+*.ko
+
+# Compiled C/C++ artifacts
+divine_kernel
+benchmark_test
+*.tar.gz
+*.zip
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Audio/Media (use Git LFS or external hosting)
+*.wav
+*.mp3
+*.mp4
+*.ogg
+
+# Deployment packages
+*.tar.gz
+*.tgz
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Replit artifacts
+.replit
+replit.md
