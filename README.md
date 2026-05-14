@@ -29,7 +29,7 @@ divineearthly.github.io/
 | 1 | ⚖️ **Nyaya Lens** | 65 | LIVE | [Web](https://divinesouljoy-nyaya-lens.hf.space) · [API](https://divinesouljoy-nyaya-lens-api.hf.space) |
 | 2 | 🧮 **Vedic Math CNN** | 68 | LIVE | [Demo](https://divinesouljoy-vedic-math-cnn.hf.space) |
 | 3 | 📱 **WhatsApp Bot** | 65 | LIVE | [+1 415 523 8886](https://wa.me/14155238886) |
-| 4 | 🤖 **Telegram Bot** | 65 | LIVE | [@NyayaLensBot](https://t.me/NyayaLensBot) |
+| 4 | 🤖 **Telegram Bot** | 65 | LIVE | [@Nyaya_Lens](https://t.me/NyayaLensBot) |
 | 5 | 🔴 **KAVACH** | - | BUILDING | [Code](kernels/kavach/) |
 
 ---
